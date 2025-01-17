@@ -14,23 +14,35 @@
 }
 </style>
 <body>
-<p>The Theory@XFEL workshop will gather together theoreticians and experimentalists with physics, chemistry and biology backgrounds to discuss the state-of-the-art, future prospects and opportunities of theoretical simulations related to X-ray free electron lasers. The workshop will take place from 18th to 20th of November 2024 in Marseille. It will be followed up by the plenary meeting of the GDR XFEL on the 21st and 22nd November 2024.</p>
+<p>Atmospheric chemistry is at the heart of the main societal challenges concerning the environment and health, climate change and environmental transition. Nevertheless, one of the major current difficulties remains the reduction of uncertainties related to the role of heterogeneous and multiphase chemistry and the transposition of knowledge acquired in the laboratory (by multiple approaches) to atmospheric models. To progress on these reactivity issues, this workshop will strengthen interactions with physical chemists theoretical physical chemistry to address the future challenges in the field.</p>
+  
 <p>The registration is <b>free of charge</b> but compulsary and the number of participants is limited. After registration, you will receive a confirmation email acknowledging either the direct acceptance or in the waiting list.</p>
 <!--<b>Important dates:</b> 
 <ul>
   <li> Registration opened: <a href="https://xrayfel.github.io/register.html">register here</a> </li>
   <li> Registration closes: 31st October 2024 </li>
 </ul>-->
-  
+
+<b>Organizers:</b> 
+<ul>
+  <li>Miquel Huix-Rotllant, (ICR) – AMU</li>
+  <li>Anne Monod, (LCE) – AMU </li>
+</ul>
+
 <b>Scientific Committee:</b> 
 <ul>
-  <li> Miquel Huix-Rotllant, <i>Institut de Chimie Radicalaire</i>, Aix-Marseille University </li>
-  <li> Marie Labeye, <i>PASTEUR</i>, ENS PSL </li>
-  <li> Claudio Attacalite, <i>Centre Interdisciplinaire de Nanoscience de Marseille</i>, Aix-Marseille University </li>
-  <li> Eleonora Luppi, <i>Laboratoire Chimie Théorique</i>, Sorbonne University </li>
-  <li> Olivier Peyrusse, <i>Lasers, Plasmas et Procédés Photoniques</i>, Aix-Marseille University </li>
-  <li> Morgane Vacher, <i>Chimie et Interdisciplinarité, Synthèse, Analyse, Modélisation</i>, Nantes University </li>
-  <li> Nicolas Sisourat, <i>Laboratoire de Chimie Physique Matière et Rayonnement</i>, Sorbonne University </li>
+  <li>Jean-Louis Clément, (ICR) – AMU</li>
+  <li>Manuela Cirtog, (LISA) - Université Paris-Cité, membre CES CHAT</li>
+  <li>Barbara D’Anna (LCE) – CNRS</li>
+  <li>Barbara ERVENS (LaMP) – CNRS</li>
+  <li>Julien Kammer (LCE) – AMU</li>
+  <li>Max McGillen (ICARE) – CNRS</li>
+  <li>Sylvain Picaud (UTINAM) - CNRS</li>
+  <li>Benedicte Picquet-Varrault (LISA) - Université Paris-Cité</li>
+  <li>Manuel F. Ruiz-Lopez (LPCT) - CNRS</li>
+  <li>Sophie Sobanska (ISM) - CNRS</li>
+  <li>Josene Toldo (LC) – ENS Lyon</li>
+  <li>Céline Toubin (PhLAM) - Université de Lille</li>
 </ul>
 </body>
 </html>
