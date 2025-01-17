@@ -1,5 +1,5 @@
 ---
-title: Theory around XFELs
+title: Theoretical physical chemistry meets atmospheric chemistry
 ---
 
 <html>
@@ -9,7 +9,7 @@ title: Theory around XFELs
   color: white;
   text-align: center;
   background-color: white;
-  background-image: url("./images/FELheader.png");
+  background-image: url("./images/atmoheader.png");
   background-repeat: no-repeat;
   background-size: cover;
   margin: 0 auto;
