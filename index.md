@@ -6,7 +6,7 @@
   color: white;
   text-align: center;
   background-color: white;
-  background-image: url("./images/FELheader.png");
+  background-image: url("./images/atmoheader.png");
   background-repeat: no-repeat;
   background-size: cover;
   margin: 0 auto;
