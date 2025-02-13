@@ -41,6 +41,7 @@
   <li>Benedicte Picquet-Varrault (LISA) - Université Paris-Cité</li>
   <li>Manuel F. Ruiz-Lopez (LPCT) - CNRS</li>
   <li>Sophie Sobanska (ISM) - CNRS</li>
+  <li>Florent Louis (PC2A) – Université de Lille</li>
   <li>Josene Toldo (LC) – ENS Lyon</li>
   <li>Céline Toubin (PhLAM) - Université de Lille</li>
 </ul>
