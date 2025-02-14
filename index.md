@@ -16,7 +16,7 @@
 <body>
 <p>Atmospheric chemistry is at the heart of the main societal challenges concerning the environment and health, climate change and environmental transition. Nevertheless, one of the major current difficulties remains the reduction of uncertainties related to the role of heterogeneous and multiphase chemistry and the transposition of knowledge acquired in the laboratory (by multiple approaches) to atmospheric models. To progress on these reactivity issues, this workshop will strengthen interactions with theoretical physical chemistry to address the future challenges in the field.</p>
   
-<p>The registration is <b>free of charge</b> but compulsary and the number of participants is limited. After registration, you will receive a confirmation email acknowledging either the direct acceptance or in the waiting list.</p>
+<p>The registration is <b>free of charge</b> but compulsary. After registration, you will receive a confirmation email acknowledging either the direct acceptance or in the waiting list.</p>
 <!--<b>Important dates:</b> 
 <ul>
   <li> Registration opened: <a href="https://xrayfel.github.io/register.html">register here</a> </li>
