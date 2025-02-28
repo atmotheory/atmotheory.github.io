@@ -10,6 +10,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   margin: 0 auto;
+}
 </style>
 <body>
 Registration will open soon. For more information, please write: atmotheory@gmail.com
