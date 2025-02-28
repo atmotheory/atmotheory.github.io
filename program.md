@@ -30,6 +30,7 @@
 </style>
 <body>
 The program is provisory, it can be bound to modifications.
+
 <table class="tg"><thead>
   <tr>
     <th class="tg-mcqj"></th>
@@ -142,17 +143,17 @@ The program is provisory, it can be bound to modifications.
     <td class="tg-j4pq">Depart</td>
   </tr>
   <tr>
-    <td class="tg-mcqj">17:00-17:30</td>
-    <td class="tg-r31r">Coffee break</td>
+    <td class="tg-mcqj">17:00-17:15</td>
+    <td class="tg-r31r">Break</td>
     <td class="tg-wp8o"></td>
   </tr>
   <tr>
-    <td class="tg-mcqj">17:30-17:50</td>
+    <td class="tg-mcqj">17:15-18:00</td>
     <td class="tg-wqgo">Round table</td>
     <td class="tg-wp8o"></td>
   </tr>
   <tr>
-    <td class="tg-mcqj">17:50-19:15</td>
+    <td class="tg-mcqj">18:00-19:30</td>
     <td class="tg-k7xz">Poster session</td>
     <td class="tg-wp8o"></td>
   </tr>
