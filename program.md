@@ -18,21 +18,18 @@
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-j4pq{background-color:#efefef;border-color:#000000;text-align:center;vertical-align:top}
 .tg .tg-wqgo{background-color:#cbcefb;border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-k7xz{background-color:#ffce93;border-color:#000000;text-align:center;vertical-align:top}
 .tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
 .tg .tg-mcqj{border-color:#000000;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-mqa1{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-k0nx{background-color:#9aff99;border-color:#000000;text-align:center;vertical-align:top}
 .tg .tg-1txt{background-color:#ffffc7;border-color:#000000;text-align:center;vertical-align:top}
 .tg .tg-r31r{background-color:#ffccc9;border-color:#000000;text-align:center;vertical-align:top}
-.tg .tg-ifcm{background-color:#ffce93;text-align:center;vertical-align:top}
 </style>
 <body>
 The program is provisory, it can be bound to modifications.
-
 <table class="tg"><thead>
   <tr>
     <th class="tg-mcqj"></th>
@@ -155,9 +152,9 @@ The program is provisory, it can be bound to modifications.
     <td class="tg-wp8o"></td>
   </tr>
   <tr>
-    <td class="tg-1wig">17:50-19:15</td>
-    <td class="tg-ifcm">Poster session</td>
-    <td class="tg-baqh"></td>
+    <td class="tg-mcqj">17:50-19:15</td>
+    <td class="tg-k7xz">Poster session</td>
+    <td class="tg-wp8o"></td>
   </tr>
   <tr>
     <td class="tg-mcqj">20:00</td>
