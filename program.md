@@ -58,34 +58,34 @@ The program is provisory, it can be bound to modifications.
     <td class="tg-1txt">Contributed talk 11</td>
   </tr>
   <tr>
-    <td class="tg-mcqj">10:00-10:30</td>
+    <td class="tg-mcqj">10:00-10:40</td>
     <td class="tg-wp8o"></td>
     <td class="tg-r31r">Coffee break</td>
   </tr>
   <tr>
-    <td class="tg-mcqj">10:30-11:00</td>
-    <td class="tg-wp8o"></td>
-    <td class="tg-k0nx">Invited speaker 3</td>
-  </tr>
-  <tr>
-    <td class="tg-mcqj">11:00-11:20</td>
+    <td class="tg-mcqj">10:40-11:00</td>
     <td class="tg-wp8o"></td>
     <td class="tg-1txt">Contributed talk 12</td>
   </tr>
   <tr>
-    <td class="tg-mcqj">11:20-11:40</td>
+    <td class="tg-mcqj">11:00-11:20</td>
     <td class="tg-wp8o"></td>
     <td class="tg-1txt">Contributed talk 13</td>
   </tr>
   <tr>
-    <td class="tg-mcqj">11:40-12:00</td>
+    <td class="tg-mcqj">11:20-11:40</td>
     <td class="tg-wp8o"></td>
     <td class="tg-1txt">Contributed talk 14</td>
   </tr>
   <tr>
-    <td class="tg-mcqj">12:00-12:20</td>
+    <td class="tg-mcqj">11:40-12:00</td>
     <td class="tg-wp8o"></td>
     <td class="tg-1txt">Contributed talk 15</td>
+  </tr>
+  <tr>
+    <td class="tg-mcqj">12:00-12:20</td>
+    <td class="tg-wp8o"></td>
+    <td class="tg-1txt">Contributed talk 16</td>
   </tr>
   <tr>
     <td class="tg-mcqj">12:20-13:30</td>
@@ -95,22 +95,22 @@ The program is provisory, it can be bound to modifications.
   <tr>
     <td class="tg-mcqj">13:30-14:00</td>
     <td class="tg-k0nx">Invited speaker 1</td>
-    <td class="tg-k0nx">Invited speaker 4</td>
+    <td class="tg-1txt">Contributed talk 17</td>
   </tr>
   <tr>
     <td class="tg-mcqj">14:00-14:20</td>
     <td class="tg-1txt">Contributed talk 1</td>
-    <td class="tg-1txt">Contributed talk 16</td>
+    <td class="tg-1txt">Contributed talk 18</td>
   </tr>
   <tr>
     <td class="tg-mcqj">14:20-14:40</td>
     <td class="tg-1txt">Contributed talk 2</td>
-    <td class="tg-1txt">Contributed talk 17</td>
+    <td class="tg-1txt">Contributed talk 19</td>
   </tr>
   <tr>
     <td class="tg-mcqj">14:40-15:00</td>
     <td class="tg-1txt">Contributed talk 3</td>
-    <td class="tg-1txt">Contributed talk 18</td>
+    <td class="tg-1txt">Contributed talk 20</td>
   </tr>
   <tr>
     <td class="tg-mcqj">15:00-15:20</td>
@@ -120,12 +120,12 @@ The program is provisory, it can be bound to modifications.
   <tr>
     <td class="tg-mcqj">15:20-15:40</td>
     <td class="tg-1txt">Contributed talk 4</td>
-    <td class="tg-1txt">Contributed talk 19</td>
+    <td class="tg-1txt">Contributed talk 21</td>
   </tr>
   <tr>
     <td class="tg-mcqj">15:40-16:00</td>
     <td class="tg-1txt">Contributed talk 5</td>
-    <td class="tg-1txt">Contributed talk 20</td>
+    <td class="tg-1txt">Contributed talk 22</td>
   </tr>
   <tr>
     <td class="tg-mcqj">16:00-16:20</td>
