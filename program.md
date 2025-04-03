@@ -33,8 +33,8 @@ The program is provisory, it can be bound to modifications.
 <table class="tg"><thead>
   <tr>
     <th class="tg-mcqj"></th>
-    <th class="tg-mqa1">Monday, 16th July 2025</th>
-    <th class="tg-mqa1">Tuesday, 17th July 2025</th>
+    <th class="tg-mqa1">Wednesday, 16th July 2025</th>
+    <th class="tg-mqa1">Thursday, 17th July 2025</th>
   </tr></thead>
 <tbody>
   <tr>
