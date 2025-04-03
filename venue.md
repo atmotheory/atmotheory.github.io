@@ -1,6 +1,3 @@
----
-title: Theoretical chemistry meets atmospheric chemistry to tackle future environmental challenges
----
 
 <html>
 
