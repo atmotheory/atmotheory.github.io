@@ -14,6 +14,6 @@
 </style>
 <body>
 Registration is now open. Please register in the form below:
-<iframe src="https://framaforms.org/theoretical-chemistry-meets-atmospheric-chemistry-to-tackle-future-environmental-challenges" width="100%" height="800" border="0"></iframe>
+<iframe src="https://framaforms.org/workshop-on-theoretical-physical-chemistry-and-atmospheric-chemistry-1740676294" width="100%" height="800" border="0"></iframe>
 </body>
 </html>
