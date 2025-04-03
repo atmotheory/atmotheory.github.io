@@ -13,7 +13,7 @@
 }
 </style>
 <body>
-Registration will open soon. For more information, please write: atmotheory@gmail.com
-<!--<iframe src="https://framaforms.org/theoretical-chemistry-meets-atmospheric-chemistry-to-tackle-future-environmental-challenges" width="100%" height="800" border="0"></iframe>-->
+Registration is now open. Please register in the form below:
+<iframe src="https://framaforms.org/theoretical-chemistry-meets-atmospheric-chemistry-to-tackle-future-environmental-challenges" width="100%" height="800" border="0"></iframe>
 </body>
 </html>
