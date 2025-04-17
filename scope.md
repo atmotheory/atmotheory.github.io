@@ -13,7 +13,7 @@
 }
 </style>
 <body>
-<p>A workshop is being organized in Marseille from 16 to 17 July 2025, on the initiative of the Specialized commission of Atmosphere and Ocean (CSOA) by the LEFE/CHAT (Atmospheric Chemistry) action of CNRS-INSU's national programs, with the support of the CNRS, University of Aix-Marseille, the ICR and LCE laboratories, and the Cross-Disciplinary Project AREA of the University of Lille.</p>
+<p>A workshop is being organized in Marseille from 16 to 17 July 2025, on the initiative of the <b>Specialized commission of Atmosphere and Ocean (CSOA)</b> by the LEFE/CHAT (Atmospheric Chemistry) action of <b>CNRS-INSU</b>'s national programs, with the support of the CNRS, University of Aix-Marseille, the ICR and LCE laboratories, and the Cross-Disciplinary Project AREA of the University of Lille.</p>
   
 <p>Chemical compounds emitted into the atmosphere from biogenic or anthropogenic sources are transformed in situ by physico-chemical mechanisms taking place in homogeneous (gaseous, particulate or aqueous) or heterogeneous phases. The community of atmospheric physical chemists has extensive expertise in a wide range of methods, including laboratory experiments, simulation chamber or in situ measurements, data analysis, and a range of models from 0D to 3D.  Nevertheless, one of the major current difficulties remains the reduction of uncertainties linked to the role of heterogeneous and multiphase chemistry, and the transfer of knowledge acquired in the laboratory / the field (through multiple approaches) to atmospheric models.</p>
 
