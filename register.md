@@ -13,7 +13,7 @@
 }
 </style>
 <body>
-Registration is now open. Please register in the form below:
+Registration is now open. The workshop is available for on-site participation only; for technical reasons, online attendance is not offered at the moment. For on-site participation, register in the form below:
 <iframe src="https://framaforms.org/workshop-on-theoretical-physical-chemistry-and-atmospheric-chemistry-1740676294" width="100%" height="800" border="0"></iframe>
 </body>
 </html>
