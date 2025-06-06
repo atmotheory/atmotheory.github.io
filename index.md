@@ -17,10 +17,8 @@
   
 <p>The registration is <b>free of charge</b> but compulsary. The workshop is available for on-site participation only. After registration, you will receive a confirmation email acknowledging either the direct acceptance or in the waiting list.</p>
 <b>Important dates:</b> 
-<ul>
-  <li> Registration opened: <a href="https://atmotheory.github.io/register.html">register here</a> </li>
-  <li> Registration closes: 31st May 2025 </li>
-</ul>
+
+Registration closed. Exceptional requests: atmotheory@gmail.com 
 
 <b>Organizers:</b> 
 <ul>
