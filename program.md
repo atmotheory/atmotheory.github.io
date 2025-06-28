@@ -61,7 +61,7 @@
   <tr>
     <td class="tg-cly1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black"> </span></td>
     <td class="tg-rz17"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#606C71">09:35-10:00</span></td>
-    <td class="tg-gmv9"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#BE5014">Jim Grisillon</span> <span style="font-weight:400;font-style:normal;text-decoration:none;color:#BE5014">- </span><a href="https://amubox.univ-amu.fr/s/idwKbbpEWRkqLjW" target="_blank" rel="noopener noreferrer">Role of surfactants in aerosol-cloud interaction</a><a href="https://amubox.univ-amu.fr/s/idwKbbpEWRkqLjW" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold">s</span></a></td>
+    <td class="tg-gmv9"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#BE5014">Jim Grisillon</span> <span style="font-weight:400;font-style:normal;text-decoration:none;color:#BE5014">- </span><a href="https://amubox.univ-amu.fr/s/idwKbbpEWRkqLjW" target="_blank" rel="noopener noreferrer">Role of surfactants in aerosol-cloud interactions: combining surface tension and partitioning models with analytical characterisation</a><a href="https://amubox.univ-amu.fr/s/idwKbbpEWRkqLjW" target="_blank" rel="noopener noreferrer"><span style="font-weight:bold">s</span></a></td>
   </tr>
   <tr>
     <td class="tg-cly1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black"> </span></td>
@@ -76,12 +76,12 @@
   <tr>
     <td class="tg-cly1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black"> </span></td>
     <td class="tg-rz17"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#606C71">10:25-10:55</span></td>
-    <td class="tg-gmv9"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#BE5014">Miguel de la Puente</span> <span style="font-weight:400;font-style:normal;text-decoration:none;color:#BE5014">- </span><a href="https://amubox.univ-amu.fr/s/j22Qxin3nQbLQ6C" target="_blank" rel="noopener noreferrer">Henry's Law deviation of acids and bases</a></td>
+    <td class="tg-gmv9"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#BE5014">Miguel de la Puente</span> <span style="font-weight:400;font-style:normal;text-decoration:none;color:#BE5014">- </span><a href="https://amubox.univ-amu.fr/s/j22Qxin3nQbLQ6C" target="_blank" rel="noopener noreferrer">Deviations to Henry’s law for the uptake of acids and bases to aqueous aerosols</a></td>
   </tr>
   <tr>
     <td class="tg-cly1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black"> </span></td>
     <td class="tg-rz17"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#606C71">10:55-11:20</span></td>
-    <td class="tg-gmv9"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#BE5014">Gilberto Alou </span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#BE5014">- </span><a href="https://amubox.univ-amu.fr/s/kRdLyRTsHqoQpSq" target="_blank" rel="noopener noreferrer">NO oxidation on graphite</a></td>
+    <td class="tg-gmv9"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#BE5014">Gilberto Alou </span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#BE5014">- </span><a href="https://amubox.univ-amu.fr/s/kRdLyRTsHqoQpSq" target="_blank" rel="noopener noreferrer">Nitric oxide oxidation on oxygen-functionalized highly oriented pyrolytic graphite</a></td>
   </tr>
   <tr>
     <td class="tg-cly1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black"> </span></td>
@@ -131,13 +131,13 @@
   </tr>
   <tr>
     <td class="tg-rz17"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#606C71">15:25-15:50</span></td>
-    <td class="tg-gmv9"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#BE5014">Luna Cartayrade</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#BE5014"> - </span><a href="https://amubox.univ-amu.fr/s/r2YD6mqSSFKEJWx" target="_blank" rel="noopener noreferrer">Se reactivity in the atmosphere</a></td>
+    <td class="tg-gmv9"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#BE5014">Luna Cartayrade</span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#BE5014"> - </span><a href="https://amubox.univ-amu.fr/s/r2YD6mqSSFKEJWx" target="_blank" rel="noopener noreferrer">Exploring the Se Atmospheric Journey Map with Cooperative Experiments and Simulations</a></td>
     <td class="tg-rz17"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#606C71">15:20-15:50</span></td>
     <td class="tg-z4yt"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#606C71;background-color:#B5E6A2">Coffee break</span></td>
   </tr>
   <tr>
     <td class="tg-rz17"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#606C71">15:50-16:15</span></td>
-    <td class="tg-gmv9"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#BE5014">Olivier Durif </span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#BE5014">- </span><a href="https://amubox.univ-amu.fr/s/DqbS5QQNfWxWGR7" target="_blank" rel="noopener noreferrer">RO2 detection and surface reactivity</a></td>
+    <td class="tg-gmv9"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#BE5014">Olivier Durif </span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#BE5014">- </span><a href="https://amubox.univ-amu.fr/s/DqbS5QQNfWxWGR7" target="_blank" rel="noopener noreferrer">Laboratory Measurements of Gas-Phase Reactions Kinetics and Uptake on Surfaces: Application to Organic Peroxy Radical</a></td>
     <td class="tg-rz17"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#606C71">15:50-16:30</span></td>
     <td class="tg-zxc1"><span style="font-weight:700;font-style:normal;text-decoration:none;color:windowtext;background-color:#E49EDD">Prizes -</span> <span style="font-weight:700;font-style:normal;text-decoration:none;color:windowtext">Discussions on how to structure the community</span></td>
   </tr>
