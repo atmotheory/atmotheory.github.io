@@ -1,15 +1,25 @@
-
+<style type="text/css">
+.page-header {
+  color: white;
+  text-align: center;
+  background-color: white;
+  background-image: url("./images/atmoheader.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+}
+</style>
 
 <body>
-  <h1 id="top">Survey Responses</hE>
+  <h1 id="top">Survey Responses</h1>
   <ul>
-   <li><a hfref="#t0">Theory and Experimental Collaborations</a>
-   <li><a hfref="#t1">Theoretical Chemistry vs Atmospheric Sciences</a>
-  <li> <a hfref="#t2">Most pressing scientific challenges to your point of view?</a>
-   <li><a hfref="#t3">What attracted you to participate in this workshop?</a>
-   <li><a hfref="#t4">What are your expectations / hopes for workshop outcomes?</a>
-  <li> <a hfref="#t5">What are your impressions of the nexus of theoretical and atmospheric chemistry as an emerging topic?</a>
-   <li><a hfref="#t6">Preferred Topics for Round-Tables</a>
+   <li><a href="#t0">Theory and Experimental Collaborations</a>
+   <li><a href="#t1">Theoretical Chemistry vs Atmospheric Sciences</a>
+  <li> <a href="#t2">Most pressing scientific challenges to your point of view?</a>
+   <li><a href="#t3">What attracted you to participate in this workshop?</a>
+   <li><a href="#t4">What are your expectations / hopes for workshop outcomes?</a>
+  <li> <a href="#t5">What are your impressions of the nexus of theoretical and atmospheric chemistry as an emerging topic?</a>
+   <li><a href="#t6">Preferred Topics for Round-Tables</a>
     </ul>
 
   <h2 id="t0">Theory and Experimental Collaborations</h2>
