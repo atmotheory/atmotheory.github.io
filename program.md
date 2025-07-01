@@ -56,7 +56,7 @@
   <tr>
     <td class="tg-cly1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black"> </span></td>
     <td class="tg-rz17"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#606C71">09:10-09:35</span></td>
-    <td class="tg-gmv9"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#BE5014">Denis Petiprez</span>  <span style="font-weight:400;font-style:normal;text-decoration:none;color:#BE5014"><a href="https://amubox.univ-amu.fr/s/DBjW9JWsgZk724y" target="_blank" rel="noopener noreferrer">Optical properties of biomass burning aerosols</a></span></td>
+    <td class="tg-gmv9"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#BE5014">Denis Petiprez</span>  <a href="https://amubox.univ-amu.fr/s/DBjW9JWsgZk724y" target="_blank" rel="noopener noreferrer">Optical properties of biomass burning aerosols</a></td>
   </tr>
   <tr>
     <td class="tg-cly1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black"> </span></td>
