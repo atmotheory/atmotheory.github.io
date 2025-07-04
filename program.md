@@ -169,5 +169,10 @@
   </tr>
 </tbody></table>
 </body>
+
+The workshop will take place in the Natural sciences amphitheater:
+
+<img src="images/Plan_Campus_SC.jpg">
+
 </html>
 
