@@ -22,6 +22,11 @@ The workshop will be held in the Campus Saint Charles of Aix-Marseille Universit
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d10501.194087184775!2d5.376681719298049!3d43.30114179785645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e2!4m3!3m2!1d43.305473299999996!2d5.3782153!4m5!1s0x12c9c096f74b4fd3%3A0xd5046e925cf5441e!2sSaint-Charles%2C%2013001%20Marseille!3m2!1d43.302642299999995!2d5.3802882!5e1!3m2!1sfr!2sfr!4v1740737417579!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+The seminar room is found in the Natural sciences amphitheater inside the Campus Saint Charles: 
+
+<img src="images/Plan_Campus_SC.jpg">
+
+
 <h1>City public transportation</h1>
 
 All metro lines and many bus lines stop nearby the main train station. For more information on the public transports in Marseille and prices, visit the official website:<br>
