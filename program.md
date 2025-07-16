@@ -81,7 +81,7 @@
   <tr>
     <td class="tg-cly1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black"> </span></td>
     <td class="tg-rz17"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#606C71">10:55-11:20</span></td>
-    <td class="tg-gmv9"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#BE5014">Gilberto Alou </span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#BE5014">- </span><a href="https://amubox.univ-amu.fr/s/kRdLyRTsHqoQpSq" target="_blank" rel="noopener noreferrer">Nitric oxide oxidation on oxygen-functionalized highly oriented pyrolytic graphite</a></td>
+    <td class="tg-gmv9"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#BE5014">Gilberto Alou </span><span style="font-weight:400;font-style:normal;text-decoration:none;color:#BE5014">- </span><a href="https://amubox.univ-amu.fr/s/kRdLyRTsHqoQpSq" target="_blank" rel="noopener noreferrer">NO oxidation over oxygen functionalized Highly Oriented Pyrolytic Graphite: from AIMD to ANN-PES simulations</a></td>
   </tr>
   <tr>
     <td class="tg-cly1"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black"> </span></td>
