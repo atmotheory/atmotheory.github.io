@@ -15,12 +15,22 @@
 <body>
 <p>Atmospheric chemistry is at the heart of the main societal challenges concerning the environment and health, climate change and environmental transition. Nevertheless, one of the major current difficulties remains the reduction of uncertainties related to the role of heterogeneous and multiphase chemistry and the transposition of knowledge acquired in the laboratory (by multiple approaches) to atmospheric models. To progress on these reactivity issues, this workshop will strengthen interactions with theoretical physical chemistry to address the future challenges in the field.</p>
   
-<p>Registration is now closed. Requests: atmotheory@gmail.com</p>
+
+<b>Thanks for participating!</b> 
 
 
-<b>Important dates:</b> 
+<img src="./images/atmotheory-workshop-group-picture.jpeg" style="width: 50%; height: 50%;" />
+
+<b>Congratulations to the winners of best poster/oral presentations:</b>
+<ul>
+  <li>Enida Nushi, best poster presentation prize (experiment)</li>
+  <li>Jim Grisillon, best oral presentation prize (experiment)</li>
+  <li>Madhumita Chakraborty, best poster presentation prize (theory)</li>
+  <li>Miguel de la Puente, best oral presentation prize (theory)</li>
+</ul>
 
 
+<img src="./images/best_oral_poster.jpg" style="width: 50%; height: 50%;" />
 
 <b>Organizers:</b> 
 <ul>
