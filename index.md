@@ -14,10 +14,10 @@
 </style>
 <body>
 <p>Atmospheric chemistry is at the heart of the main societal challenges concerning the environment and health, climate change and environmental transition. Nevertheless, one of the major current difficulties remains the reduction of uncertainties related to the role of heterogeneous and multiphase chemistry and the transposition of knowledge acquired in the laboratory (by multiple approaches) to atmospheric models. To progress on these reactivity issues, this workshop will strengthen interactions with theoretical physical chemistry to address the future challenges in the field.</p>
-  
+
+<a href="https://listes.services.cnrs.fr/wws/subscribe/atmotheory" target="_blank"> Click here to register to the Atmospheric Theoretical Chemistry (CAT) Newsletter</a>
 
 <b>Thanks for participating!</b> 
-
 
 <img src="./images/atmotheory-workshop-group-picture.jpeg" style="width: 50%; height: 50%;" />
 
